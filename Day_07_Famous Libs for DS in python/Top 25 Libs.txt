@@ -1,0 +1,76 @@
+Top 12 Libraries of Python for Data Science
+
+1: Pandas
+2: Numpy
+3: Scikit learn
+4: Matplotlib
+5: Seaborn
+6: StatModels
+7: TensorFlow
+8: OpenCV Python
+9: R
+10:Plotly
+11:PyTorch
+12:Streamlit
+
+
+
+Some more useful Libraries
+
+Keras
+Hyperopt Sklearn
+TPOT
+Dask
+SpaCy
+PymPy
+NLTK
+Elasticsearch
+
+Gradio
+Scipy
+Scrapy
+
+BeautifulSoup
+Bokeh
+Chainer
+NuPIC
+Ramp
+Pipenv
+Bob
+PyBrain
+MILK
+Dash
+Theano
+SymPy
+Caffe2
+Hebel
+Theano
+SQLAlchemy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
