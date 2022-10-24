@@ -1,0 +1,8 @@
+Availabel Databases to get already published free datasets:
+1- https://opendatainception.io/#
+2- https://datasetsearch.research.google.com/
+3- https://opendata.com.pk/
+4- https://catalog.data.gov/dataset
+5- https://www.kaggle.com/datasets
+6- https://www.fao.org/faostat/en/#home
+7- https://databank.worldbank.org/home
