@@ -1,0 +1,3 @@
+Punjab Crime Stats | 2002 - 2015
+
+This Data is one of its own kind, highlighting the crimes in punjab from year 2002 to year 2015. Highlighting the crimes in all divisions of Punjab Pakistan and tracking the law and order regulations violated by citizens of Punjab Pakistan. Buy using this data we cannot only overview all the crimes offended but also see what particular stiuations happend in that described area. We will use different machine learning techniques to highlight the crime patterns all over Punjab but and will try to observe the situation that made people offend that violation. Our team will also try to investigate any hidden pattern to see the occurance of a particular crime at a particular time in year.
